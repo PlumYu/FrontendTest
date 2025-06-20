@@ -60,12 +60,12 @@
 
 1.  **克隆项目到本地**
     ```bash
-    git clone [你的项目 Git 仓库地址]
+    git clone https://github.com/PlumYu/FrontendTest.git
     ```
 
 2.  **进入项目目录**
     ```bash
-    cd [你的项目文件夹名称]
+    cd frontend
     ```
 
 3.  **安装依赖**
