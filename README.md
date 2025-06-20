@@ -2,8 +2,9 @@
 
 一个现代化、基于浏览器的轻量级 API 测试客户端，旨在提供一个比 Postman 或 Apifox 更简洁、更直观、更易于后端开发者使用的界面。支持完整的 HTTP(S) 请求、Server-Sent Events (SSE) 和 WebSocket 通信。
 
-**(请在这里替换为你的项目截图，一张动态的 GIF 图效果会更好！)**
-![项目截图](placeholder.gif)
+![image](https://github.com/user-attachments/assets/bbb7782c-32bf-4263-a4db-5b7ff4b56c01)
+![image](https://github.com/user-attachments/assets/c9e4163a-a587-4e12-9ffb-2dd92b51494b)
+![image](https://github.com/user-attachments/assets/92ab6233-7106-4a7d-ad82-50d441f933be)
 
 ---
 
@@ -85,5 +86,3 @@
 - **HTTP**: 在左侧菜单选择 `GET`/`POST`/`PUT`/`DELETE`，然后在右侧面板填写请求地址、参数、请求头和请求体，点击“发送”即可。
 - **SSE**: 进入 SSE 页面，输入 SSE 端点 URL（可使用默认的测试地址），点击“连接”。你可以添加自定义的事件名来监听特定消息。
 - **WebSocket**: 进入 WebSocket 页面，输入 WebSocket URL（可使用默认的 `wss://echo.websocket.org` 进行测试），连接后即可在下方输入框发送和接收消息。
-
----
